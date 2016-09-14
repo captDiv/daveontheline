@@ -1,0 +1,163 @@
+* {
+	font-family: raleway;
+	text-decoration: none;
+	color: #607D8B;
+}
+
+body {
+	background-color: white;
+
+}
+
+.navbar {
+	display: flex;
+	align-items: center;
+	align-content: center;
+	flex-flow: row;
+	flex-wrap: wrap;
+	flex-basis: 98%;
+}
+
+.main-heading {
+	font-size: 2.5em;
+	display: flex;
+	flex: 1 0 auto;
+	padding-bottom: 5px;
+	padding-left: 0;
+}
+
+.nav {
+	display: flex;
+	flex: 0 1 auto;
+	padding-bottom: 5px;
+}
+
+.nav1 {
+	padding-right: 30px;
+}
+
+.section {
+	width: 49%;
+	height: 400px;
+	float: left;
+	margin-top: 20px;
+	
+}
+
+.hero-img {
+	width: 100%;
+	height: 800px;
+	background-size: cover;
+	background-image: url(../images/paragliding.jpg);
+}
+
+.btn {
+	text-align: center;
+	padding: 5px 40px 5px 40px;
+	text-decoration: none;
+	background-color: white;
+	color: #607D8B;
+	margin: auto;
+}
+
+#Fitness {
+	background-image: url(../images/healthandfitness.jpg);
+	background-size: cover;
+}
+
+#Aviation {
+	float:right;
+	background-image: url(../images/aviation.jpg);
+	background-size: cover;
+
+}
+
+#Photography {
+	background-image: url(../images/canoncamera.jpg);
+	background-size: cover;
+}
+
+#Travel {
+	float:right;
+	background-image: url(../images/travel.jpg);
+	background-size: cover;
+}
+
+#Bikes {
+	background-image: url(../images/bike.jpg);
+	background-size: cover;
+}
+
+#Web {
+	float:right;
+	background-image: url(../images/webdevelopment.jpg);
+	background-size: cover;
+}
+
+#Coffee {
+	background-image: url(../images/coffee.jpg);
+	background-size: cover;
+}
+
+#Resources {
+	float:right;
+	background-image: url(../images/books.jpg);
+	background-size: cover;
+}
+
+#Hiking {
+	margin-bottom: 20px;
+	background-image: url(../images/hiking.jpg);
+	background-size: cover;
+}
+
+#Food {
+	float:right;
+	margin-bottom: 20px;
+	background-image: url(../images/food.jpg);
+	background-size: cover;
+}
+
+footer {
+	height: 150px;
+	display: flex;
+	clear: both;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.footer-items a {
+	padding: 20px 20px 20px 20px;
+	flex: auto;
+}
+
+
+
+/*.footer {
+	display: flex;
+	flex-wrap: wrap;
+	flex-flow: row;
+	clear: both;
+	background-color: #F5F5F5;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

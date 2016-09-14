@@ -1,0 +1,13 @@
+
+
+header {
+	background-size: cover;
+	max-height: 25%;
+	height: 15%;
+	background-color: pink;
+}
+
+nav {
+	display: inline-block;
+
+}
